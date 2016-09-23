@@ -6,12 +6,12 @@ New Line!
 And lets see what happens now!
 CYA!
 
-<<<<<<< HEAD
+
 Fuck that!!!!!!!!!!!
 This is main branch baby!
-=======
+
 Now the branch is talkin baby!!
 yeah!
 Fck ME!
 now!
->>>>>>> Develop
+
